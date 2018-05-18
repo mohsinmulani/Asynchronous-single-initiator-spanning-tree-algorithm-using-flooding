@@ -1,4 +1,4 @@
-Run Following commands to execute on Erlnag shell:
+Run Following commands to execute on Erlang shell:
 
 c(bFS).
 bFS:start().
